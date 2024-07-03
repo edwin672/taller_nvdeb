@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "taller_nvdeb"
+  site-url: "https://edwin672.github.io/taller_nvdeb"
+  description: "nuevo_taller"
+  repo-branch: main
+  repo-url: "https://github.com/edwin672/taller_nvdeb"
