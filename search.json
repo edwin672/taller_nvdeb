@@ -1,0 +1,22 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "taller_nvdeb",
+    "section": "",
+    "text": "Es un ejemplo de como se utiliza\n\nprint(\"Hola, bienvenido al taller de NVDEB prueba 2\")\n\nHola, bienvenido al taller de NVDEB",
+    "crumbs": [
+      "taller_nvdeb"
+    ]
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo (var_bool)\n\nEsta funcion muestra un mensaje dependiendo del valor de la variable de entrada\nveamos como funciona\n\nfoo(True)\n\n'verdadero'\n\n\n\nfoo(False)\n\n'falso'\n\n\n\nsource\n\n\nsaludo_a\n\n saludo_a (to='')\n\nImprime hola a un nombre\n\nsaludo_a(\"Juan\")\n\nHolaJuan\nHola Juan\n¿Cómo estás?\n\n\n\nsaludo_a(\"Ewin\")\n\nHola Ewin\n¿Cómo estás?\n\n\n\nsource\n\n\nsaludo\n\n saludo ()\n\nEsta funcion muestra un saludo\n\nsource\n\n\nconcatena\n\n concatena (nombre=None)\n\n\nconcatena(\"Edwin\")\n\nHola!\nHola Edwin\n¿Cómo estás?",
+    "crumbs": [
+      "core"
+    ]
+  }
+]
