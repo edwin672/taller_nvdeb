@@ -4,6 +4,11 @@
 __all__ = ['foo']
 
 # %% ../nbs/00_core.ipynb 3
-def foo():
-    "Esta funcion no hace nada"
-    pass
+def foo(var_bool):
+    "Esta funcion muestra un mensaje dependiendo del valor de la variable de entrada"
+    if var_bool:
+        return "verdadero"
+    else:
+        return "falso"
+    return
+    
