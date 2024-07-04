@@ -21,6 +21,7 @@ def saludo():
 
 # %% ../nbs/00_core.ipynb 8
 def saludo_a(to):
+    
     """Imprime hola a un nombre"""
     print("Hola",to)
     print("¿Cómo estás?")

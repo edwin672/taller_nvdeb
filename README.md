@@ -6,7 +6,7 @@
 Es un ejemplo de como se utiliza
 
 ``` python
-print("Hola, bienvenido al taller de NVDEB")
+print("Hola, bienvenido al taller de NVDEB prueba 2")
 ```
 
     Hola, bienvenido al taller de NVDEB
