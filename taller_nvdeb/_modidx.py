@@ -5,4 +5,7 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://edwin672.github.io',
                 'git_url': 'https://github.com/edwin672/taller_nvdeb',
                 'lib_path': 'taller_nvdeb'},
-  'syms': {'taller_nvdeb.core': {'taller_nvdeb.core.foo': ('core.html#foo', 'taller_nvdeb/core.py')}}}
+  'syms': { 'taller_nvdeb.core': { 'taller_nvdeb.core.concatena': ('core.html#concatena', 'taller_nvdeb/core.py'),
+                                   'taller_nvdeb.core.foo': ('core.html#foo', 'taller_nvdeb/core.py'),
+                                   'taller_nvdeb.core.saludo': ('core.html#saludo', 'taller_nvdeb/core.py'),
+                                   'taller_nvdeb.core.saludo_a': ('core.html#saludo_a', 'taller_nvdeb/core.py')}}}
